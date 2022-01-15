@@ -11,9 +11,7 @@ if (true) {
 
 <else if>
 	if (false) {
-			System.out.println("result : true");
-
-            => if가 false니까 실행 안하고 다음으로 넘김
+			System.out.println("result : true"); // => if가 false니까 실행 안하고 다음으로 넘김
 		} else if (true) {
 			System.out.println("result : true");
             => if가 true니까 실행 됨. 결과는 result : true
