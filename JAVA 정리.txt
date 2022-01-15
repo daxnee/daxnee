@@ -10,19 +10,34 @@ if (true) {
 => 만약 if가 false라면 값은 result : false 로 출력
 
 <else if>
+	ex_1)
 	if (false) {
-			System.out.println("result : true"); // => if가 false니까 실행 안하고 다음으로 넘김
-		} else if (true) {
-			System.out.println("result : true");
-            => if가 true니까 실행 됨. 결과는 result : true
-		} else {
-			System.out.println("result : false");
-		}
+		System.out.println("result : true"); // => if가 false니까 실행 안하고 다음으로 넘김
+	} else if (true) {
+		System.out.println("result : true");
+		=> if가 true니까 실행 됨. 결과는 result : true
+	} else {
+		System.out.println("result : false");
+	}
+
     **수 많은 조건문 중 가장 먼저 'true를 충족하는' 실행문 하나만 실행되고 
     if문을 나오게 됨 (뒤에 true가 있던 말던 상관노)
     ** else는 생략도 가능함
        
         *else if 는 여러번 올 수 있지만 else는 마지막에 딱 한번 나온다.
+
+	ex_2)
+	int y = 0;
+	if (y == 1) {
+		System.out.println("result : true"); // => if가 false니까 실행 안하고 다음으로 넘김
+	} else if (y == 2) {
+		System.out.println("result : true");
+	} else {
+		System.out.println("result : false");
+	}
+
+결과:
+result : false
 
 
 
@@ -30,7 +45,7 @@ if (true) {
 
 int sum=0;
 		for(int i=1; i<=10; i++) {
-			sum = sum + i;
+			sum = sum + i;   // => == sum += i; 
 			System.out.print(i);
 			if(i<=9)
 				System.out.print("+");
