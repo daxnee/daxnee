@@ -21,7 +21,7 @@ if (true) {
 	}
 
     **수 많은 조건문 중 가장 먼저 'true를 충족하는' 실행문 하나만 실행되고 
-    if문을 나오게 됨 (뒤에 true가 있던 말던 상관노)
+    if문을 나오게 됨 (뒤에 true가 있던 말던 노상관)
     ** else는 생략도 가능함
        
         *else if 는 여러번 올 수 있지만 else는 마지막에 딱 한번 나온다.
@@ -38,6 +38,51 @@ if (true) {
 
 결과:
 result : false
+
+
+
+<스캐너>
+    Scanner scan = new Scanner(System.in);//crtl + shift + o
+    System.out.print("숫자를 입력하세요 ==>");
+    int value = scan.nextInt();
+    if(value <= 100) {
+        if((value%2) == 0) {
+            System.out.println("2의 배수입니다.");
+        }
+        if((value%3) == 0) {
+            System.out.println("3의 배수입니다.");
+        }
+    }else{
+        System.out.println("100을 넘었습니다!!");
+    }
+
+결과 실행 방법:
+ctrl + f10 - 숫자 입력 - 엔터 - 결과 출력
+
+
+<While 문>  ...?
+      int i =0;
+		int sum =0;
+		final int MAX_VALUE = 55;
+		while(true) {
+	   System.out.println("stop");
+		++i;
+		sum = sum + i;
+		if(sum == MAX_VALUE) {
+			break;} 
+		}
+
+결과:
+stop
+stop
+stop
+stop
+stop
+stop
+stop
+stop
+stop
+stop
 
 
 
