@@ -7,8 +7,7 @@
 <!--
 **daxnee/daxnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="instagram.com/daxnee" target="_blank"><img src="https://img.shields.io/badge/#E4405Fstyle=flat-square&logo=#E4405F&logoColor=#E4405F"/></a>
-
+get="_blank"><img src="https://img.shields.io/badge/daxnee#E4405F?style=flat-square&logo&logoColor#E4405F"/></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
