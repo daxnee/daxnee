@@ -1,4 +1,4 @@
-### DaEun :star2:
+### <div align=center> DaEun :star2:
  <h3 align="center"><b>🛠 Learing 🛠</b></h3>
 <h3 align="center"><b><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
