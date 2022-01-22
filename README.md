@@ -1,9 +1,9 @@
 
 ### 🛠 Learing 🛠</b></h3>
 
-<img src="https://img.shields.io/badge/JAVA-EF2D5E?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4FC08D?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<img src="https://img.shields.io/badge/JAVA-EF2D5E?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-003458?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </a> <a href="https://instagram.com/daxnee">
-
+  
 <img src="http://img.shields.io/badge/-daxnee-purple?style=flat&logo=Instagram&link=https://instagram.com/daxnee/"/></a>
 
      
