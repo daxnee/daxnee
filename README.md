@@ -1,8 +1,9 @@
-### <div align=center> DaEun :star2:
+
  <h3 align="center"><b>🛠 Learing 🛠</b></h3>
 <h3 align="center"><b>
 <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4FC08D?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4FC08D?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ 
 </a> <a href="https://instagram.com/daxnee">
 <img
 src="http://img.shields.io/badge/-daxnee-purple?style=flat&logo=Instagram&link=https://instagram.com/daxnee/"/></a>
