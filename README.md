@@ -1,8 +1,8 @@
 ### <div align=center> DaEun :star2:
  <h3 align="center"><b>🛠 Learing 🛠</b></h3>
 <h3 align="center"><b>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4FC08D?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## :ocean:  :dolphin: Hi guys! I'm DaNee !:dizzy: <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2363C3FF&title_bg=%2348B9FF&icon=twitter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a> 
 
