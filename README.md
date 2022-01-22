@@ -11,7 +11,7 @@
 
 
 ![daxnee's github stats](https://github-readme-stats.vercel.app/api?username=daxnee&show_icons=true&theme=yeblu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daxnee&langs_count=10&layout=compact&theme=yeblu)](https://github.com/daxnee/daxnee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daxnee&langs_count=10&layout=compact&theme=prussian)](https://github.com/daxnee/daxnee)
 
 
 <!--
