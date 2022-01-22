@@ -1,5 +1,5 @@
 
-### Learing :pencil2: :orange_book:</b></h3>
+### :pencil2: Learing :orange_book:</b></h3>
 
 <img src="https://img.shields.io/badge/JAVA-0099E5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-003458?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </a> <a href="https://instagram.com/daxnee">
