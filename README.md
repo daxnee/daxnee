@@ -1,8 +1,11 @@
 
 ### :pencil2: Learing :orange_book:</b></h3>
 
-<img src="https://img.shields.io/badge/JAVA-0099E5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-003458?style=for-the-badge&logo=mysql&logoColor=white"></a>  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a> <a href="https://instagram.com/daxnee">
+<img src="https://img.shields.io/badge/JAVA-0099E5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-003458?style=for-the-badge&logo=mysql&logoColor=white"></a>  <img src="https://img.shields.io/badge/html5-4FC08D?style=for-the-badge&logo=html5&logoColor=white">
+</a> <a href="https://instagram.com/daxnee"> <img src="https://img.shields.io/badge/javascript-339933?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/css-092E20?style=for-the-badge&logo=css3&logoColor=white"> 
+
+
+
   
 <img src="http://img.shields.io/badge/-daxnee-4285F4?style=flat&logo=Instagram&link=https://instagram.com/daxnee/"/></a>
 
