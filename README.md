@@ -14,8 +14,8 @@
 ##  :dizzy:  Hi guys! I'm DaEun ! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaxnee%2Fhit-counter&count_bg=%2363C3FF&title_bg=%2348B9FF&icon=twitter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a> 
 
 
-![daxnee's github stats](https://github-readme-stats.vercel.app/api?username=daxnee&show_icons=true&theme=yeblu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daxnee&langs_count=10&layout=compact&theme=prussian)](https://github.com/daxnee/README.md)
+![daxnee's github stats](https://github-readme-stats.vercel.app/api?username=daxnee&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daxnee&langs_count=10&layout=compact&theme=swift)](https://github.com/daxnee/README.md)
 
 
 
